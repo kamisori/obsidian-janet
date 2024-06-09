@@ -1,10 +1,10 @@
 {
-	"id": "babashka",
-	"name": "Babashka",
-	"version": "1.0.5",
+	"id": "janet",
+	"name": "Janet",
+	"version": "1.0.0",
 	"minAppVersion": "1.1.9",
-	"description": "Evaluate Clojure(Script) codeblocks in Babashka.",
-	"author": "Filipe Silva",
-	"authorUrl": "https://github.com/filipesilva",
+	"description": "Evaluate Janet codeblocks.",
+	"author": "Janet Brüll",
+	"authorUrl": "https://github.com/kamisori",
 	"isDesktopOnly": true
 }
